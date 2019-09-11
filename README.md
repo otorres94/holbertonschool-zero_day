@@ -1,1 +1,1 @@
-Linux holbertonschool-zero_day
+Linux
